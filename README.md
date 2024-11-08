@@ -9,6 +9,7 @@ Set the parameters for moving object detection, such as the
 threshold factor, minimum and maximum areas of the objects. 
 Loop through each frame of the video and perform the 
 following operations on each frame: 
+
 a. Read the current frame. 
 
 b. Convert the frame to grayscale using rgb2gray function. 
