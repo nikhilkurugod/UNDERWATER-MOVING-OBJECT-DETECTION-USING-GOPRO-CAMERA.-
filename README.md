@@ -36,6 +36,7 @@ iteration.
 
 Loop through each frame of the video again and perform the 
 following operations on each frame:
+
 a. Read the current frame. 
 
 b. Retrieve the detected objects for the current frame from the 
